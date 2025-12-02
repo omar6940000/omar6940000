@@ -1,6 +1,15 @@
 # 💫 About Me:
- • Full-stack web developer specializing in building modern and professional web applications.<br><br>• Proficient in HTML, CSS, JavaScript, jQuery, Bootstrap, and Tailwind CSS.<br><br>• Skilled in Vue.js, PHP, MySQL, and object-oriented programming.<br><br>• Extensive experience in OOP and working with the Laravel framework to build robust and scalable web systems.<br><br>• Passionate about creating effective solutions and delivering high-quality user experiences.<br><br>• Always open to collaboration and impactful projects.<br>
+ • • Full-stack web developer specializing in building modern and professional websites and web applications.
 
+• Proficient in HTML, CSS, JavaScript, jQuery, Bootstrap, and Tailwind CSS.
+
+• Skilled in Vue.js, PHP, and MySQL.
+
+• Has strong experience in OOP and Ajax, and works with the Laravel framework to build robust and scalable web systems.
+
+• Passionate about developing effective solutions and improving the user experience in every project I undertake.
+
+• Always ready to collaborate and work on new and impactful projects.
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@nassar22354?is_from_webapp=1&sender_device=pc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar6940000@gmail.com) 
